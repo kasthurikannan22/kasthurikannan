@@ -1,3 +1,6 @@
+![Banner](https://raw.githubusercontent.com/kasthurikannan22/kasthurikannan/main/banner.jpg)
+
+
 # 👋 Hi, I'm Kasthuri Kannan R
 
 🎓 B.Sc. Computer Science Graduate  
